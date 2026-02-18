@@ -57,7 +57,7 @@ module "base" {
 
   resource_group = {
     rg-mms-github = {
-      location   = "westeurope"
+      location = "westeurope"
     }
   }
 }
