@@ -7,6 +7,7 @@
  *
  */
 
+# ts:skip=AC_AZURE_0389 Resource Lock is not managed by this module
 resource "azurerm_resource_group" "resource_group" {
   for_each = var.resource_group
 
