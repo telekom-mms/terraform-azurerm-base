@@ -8,7 +8,6 @@
  */
 
 resource "azurerm_resource_group" "resource_group" {
-  # ts:skip=AC_AZURE_0389 Resource Lock is not managed by this module
   for_each = var.resource_group
 
   name       = local.resource_group[each.key].name == "" ? each.key : local.resource_group[each.key].name
