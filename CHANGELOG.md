@@ -1,11 +1,12 @@
 # Changelog
 
-## [0.0.1](https://github.com/telekom-mms/terraform-azurerm-base/tree/0.0.1) (2026-02-18)
+## [0.0.1](https://github.com/telekom-mms/terraform-azurerm-base/tree/0.0.1) (2026-03-24)
 
 [Full Changelog](https://github.com/telekom-mms/terraform-azurerm-base/compare/8ca99d51679cff268d977e1e562d727622eb5388...0.0.1)
 
 **Merged pull requests:**
 
+- Update config [\#2](https://github.com/telekom-mms/terraform-azurerm-base/pull/2) ([mikaEz](https://github.com/mikaEz))
 - fmt [\#1](https://github.com/telekom-mms/terraform-azurerm-base/pull/1) ([mikaEz](https://github.com/mikaEz))
 
 
