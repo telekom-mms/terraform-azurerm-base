@@ -5,8 +5,9 @@
     "default_branch": "main",
     "homepage": "https://telekom-mms.github.io/terraform-azurerm-base",
     "topics": [
-      "terraform",
-      "azure"
+      "azure",
+      "resource-group",
+      "terraform"
     ]
   }
 }
